@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 name = "pythonppw"
-version = "0.1.0"
+version = "0.2.1"
 homepage = "https://github.com/GithubUser/pythonppw"
 description = "ShortDescription."
 authors = ["FullName <E@mail.com>"]
