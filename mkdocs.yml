@@ -1,7 +1,7 @@
 site_name: PythonPPW
 # site_url: http://www.jieyu.ai
-repo_url: https://github.com/GithubUser/pythonppw
-repo_name: pythonppw
+repo_url: https://github.com/gregsifr/testrepo
+repo_name: testrepo
 #strict: true
 nav:
   - home: index.md
